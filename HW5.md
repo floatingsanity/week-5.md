@@ -9,8 +9,5 @@ https://github.com/floatingsanity/create-react-app.reacthw5.git
 ### Angular card: 
 https://github.com/floatingsanity/angular-boilerplate.hw5.git
 
-# Part 2 :- 
-
-
 
 
